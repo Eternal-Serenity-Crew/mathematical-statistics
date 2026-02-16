@@ -1,1 +1,8 @@
-.idea
+.venv
+
+/.idea/.gitignore
+/.idea/itmo-math-statistics.iml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
